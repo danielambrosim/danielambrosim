@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00b4d8&size=32&center=true&vCenter=true&width=700&lines=🔥+Olá,+mundo!+Seja+bem-vindo!;👋+Eu+sou+o+Daniel!;💡+Apaixonado+por+tecnologia+e+inovação;🚀+Vamos+codar+juntos?;⚡+Never+stop+learning!" />
+ <img src="https://readme-typing-svg.herokuapp.com/?color=00b4d8&size=32&center=true&vCenter=true&width=700&lines=🔥+Olá,+mundo!+Seja+bem-vindo!;👋+Eu+sou+o+Daniel!;💡+Apaixonado+por+tecnologia+e+inovação;🚀+Vamos+codar+juntos?;⚡+Never+stop+learning!" />
 </div>
 
 <br />
