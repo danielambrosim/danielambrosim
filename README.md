@@ -214,7 +214,7 @@
 
 ---
 
-## 🐍 **Snake Game - Minhas Contribuições**
+## 🐍 Snake Game - Minhas Contribuições
 
 <div align="center">
   <picture>
