@@ -42,11 +42,54 @@
 
 ### 🚀 Meus Projetos
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [Deck Finder Bot](https://github.com/danielambrosim/Deck-Finder-Bot) | Bot do Telegram para encontrar decks de cartas | TypeScript, Telegraf, Puppeteer |
-| [Crypto Wallet API](https://github.com/danielambrosim/crypto-wallet-api) | API para gerenciar carteiras de criptomoedas | Node.js, Express, PostgreSQL |
-| [App Cotação](https://github.com/danielambrosim/App_Cotacao) | App de cotações em tempo real | Python, HTML, API |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <br />
+        <strong>🎴 Deck Finder Bot</strong>
+        <br /><br />
+        <sub>Bot do Telegram para encontrar decks de cartas</sub>
+        <br /><br />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegraf-32B99A?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" />
+        <br /><br />
+        <a href="https://github.com/danielambrosim/Deck-Finder-Bot">
+          <img src="https://img.shields.io/badge/▶_Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <br />
+        <strong>💰 Crypto Wallet API</strong>
+        <br /><br />
+        <sub>API para gerenciar carteiras de criptomoedas</sub>
+        <br /><br />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <br /><br />
+        <a href="https://github.com/danielambrosim/crypto-wallet-api">
+          <img src="https://img.shields.io/badge/▶_Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <br />
+        <strong>📈 App Cotação</strong>
+        <br /><br />
+        <sub>App de cotações em tempo real</sub>
+        <br /><br />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+        <br /><br />
+        <a href="https://github.com/danielambrosim/App_Cotacao">
+          <img src="https://img.shields.io/badge/▶_Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
