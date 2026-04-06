@@ -55,12 +55,12 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielambrosim&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=00b4d8&icon_color=00b4d8" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielambrosim&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=00b4d8" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielambrosim&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=9b59b6&icon_color=9b59b6&text_color=c9d1d9" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielambrosim&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=9b59b6&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielambrosim&theme=dark&background=0d1117&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielambrosim&theme=dark&background=0d1117&hide_border=true&stroke=9b59b6&ring=9b59b6&fire=9b59b6&currStreakNum=c9d1d9&sideLabels=9b59b6&currStreakLabel=9b59b6" />
 </div>
 
 ---
