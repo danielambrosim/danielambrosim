@@ -12,20 +12,35 @@
 ### 🎯 Sobre mim
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Atualmente-00b4d8?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Aprendendo-0077b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Objetivo-00b4d8?style=flat-square" />
+  <table>
+    <tr>
+      <td>🔭</td>
+      <td><b>Atualmente trabalhando:</b> APIs e Bots para Telegram</td>
+    </tr>
+    <tr>
+      <td>🌱</td>
+      <td><b>Aprendendo:</b> TypeScript, Node.js e React</td>
+    </tr>
+    <tr>
+      <td>👯</td>
+      <td><b>Quero colaborar:</b> Projetos Open Source</td>
+    </tr>
+    <tr>
+      <td>💬</td>
+      <td><b>Me pergunte sobre:</b> JavaScript, Python e Bots</td>
+    </tr>
+    <tr>
+      <td>⚡</td>
+      <td><b>Curiosidade:</b> Amo café ☕ e código limpo</td>
+    </tr>
+  </table>
 </div>
 
 <br />
 
-| | |
-|---|---|
-| 🔭 | **Atualmente trabalhando** em **APIs** e **Bots para Telegram** |
-| 🌱 | **Aprendendo** **TypeScript**, **Node.js** e **React** |
-| 👯 | **Quero colaborar** em projetos **Open Source** |
-| 💬 | **Me pergunte sobre** **JavaScript**, **Python** e **Bots** |
-| ⚡ | **Curiosidade:** Amo café ☕ e código limpo |
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
 
 ---
 
