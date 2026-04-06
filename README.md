@@ -11,11 +11,21 @@
 
 ### 🎯 Sobre mim
 
-- 🔭 Atualmente trabalhando em **APIs** e **Bots para Telegram**
-- 🌱 Aprendendo **TypeScript**, **Node.js** e **React**
-- 👯 Quero colaborar em projetos **Open Source**
-- 💬 Me pergunte sobre **JavaScript**, **Python** e **Bots**
-- ⚡ Curiosidade: Amo café ☕ e código limpo
+<div align="center">
+  <img src="https://img.shields.io/badge/-Atualmente-00b4d8?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Aprendendo-0077b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Objetivo-00b4d8?style=flat-square" />
+</div>
+
+<br />
+
+| | |
+|---|---|
+| 🔭 | **Atualmente trabalhando** em **APIs** e **Bots para Telegram** |
+| 🌱 | **Aprendendo** **TypeScript**, **Node.js** e **React** |
+| 👯 | **Quero colaborar** em projetos **Open Source** |
+| 💬 | **Me pergunte sobre** **JavaScript**, **Python** e **Bots** |
+| ⚡ | **Curiosidade:** Amo café ☕ e código limpo |
 
 ---
 
