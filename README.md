@@ -19,15 +19,15 @@
     </tr>
     <tr>
       <td>🌱</td>
-      <td><b>Aprendendo:</b> TypeScript, Node.js e React</td>
+      <td><b>Aprendendo:</b> TypeScript, Node.js, Python e Tecnologias diversas </td>
     </tr>
     <tr>
       <td>👯</td>
-      <td><b>Quero colaborar:</b> Projetos Open Source</td>
+      <td><b>Quero colaborar:</b> Projetos Open Source, Projetos JavaScript, Python e Bots</td>
     </tr>
     <tr>
       <td>💬</td>
-      <td><b>Me pergunte sobre:</b> JavaScript, Python e Bots</td>
+      <td><b>Me pergunte sobre:</b> Música, Jogos e Animações</td>
     </tr>
     <tr>
       <td>⚡</td>
