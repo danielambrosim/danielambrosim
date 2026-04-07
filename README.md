@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td>⚡</td>
-      <td><b>Curiosidade:</b> Amo café ☕ e código limpo</td>
+      <td><b>Curiosidade:</b> Amo música 🎶, jogos diversos 🎮 e café ☕</td>
     </tr>
   </table>
 </div>
@@ -47,7 +47,7 @@
 ### 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,express,react,html,css,postgresql,mongodb,git&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,postgresql,mongodb,git&perline=5" />
 </div>
 
 ---
