@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou Daniel Ambrosim</h1>
-  <h3>💻 Full Stack Developer | 💰 Crypto Enthusiast | 🤖 Bot Creator</h3>
+  <h3>💻 Full Stack Developer | 🤖 Bot Creator</h3>
 </div>
 
 <div align="center">
