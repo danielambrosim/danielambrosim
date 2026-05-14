@@ -14,7 +14,7 @@
   <table>
     <tr>
       <td>🔭</td>
-      <td><b>Atualmente trabalhando:</b> APIs e Bots simples</td>
+      <td><b>Atualmente trabalhando:</b> APIs, Bots simples e Educando</td>
     </tr>
     <tr>
       <td>🌱</td>
