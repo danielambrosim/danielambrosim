@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou Daniel Ambrosim</h1>
-  <h3>💻 Full Stack Developer | 🤖 Bot Creator</h3>
-</div>
+ </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00b4d8&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Brasil+🇧🇷;Sempre+aprendendo+coisas+novas" />
